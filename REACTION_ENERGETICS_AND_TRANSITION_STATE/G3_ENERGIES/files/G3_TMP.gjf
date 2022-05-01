@@ -1,0 +1,10 @@
+%nprocshared=6
+%mem=18GB
+%oldchk=molname_TPSSh_PC2_OPT_FREQ.chk
+%chk=molname_G3.chk
+#p G3 geom=checkpoint 
+
+molname_G3
+
+0 1
+

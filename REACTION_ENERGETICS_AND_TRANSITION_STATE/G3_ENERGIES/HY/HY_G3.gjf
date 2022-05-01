@@ -1,0 +1,10 @@
+%nprocshared=6
+%mem=18GB
+%oldchk=HY_TPSSh_PC2_OPT_FREQ.chk
+%chk=HY_G3.chk
+#p G3 geom=checkpoint 
+
+HY_G3
+
+0 1
+

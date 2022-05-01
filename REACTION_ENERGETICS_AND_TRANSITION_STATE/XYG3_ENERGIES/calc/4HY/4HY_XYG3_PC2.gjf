@@ -1,0 +1,12 @@
+%nprocshared=4
+%mem=4GB
+%oldchk=4HY_B3LYP_PC2_OPT_FREQ.chk
+%chk=4HY_XYG3_PC2.chk
+# xyg3/gen geom=checkpoint 
+
+4HY_XYG3_PC2
+
+0 1
+
+@pc-2.gbs
+

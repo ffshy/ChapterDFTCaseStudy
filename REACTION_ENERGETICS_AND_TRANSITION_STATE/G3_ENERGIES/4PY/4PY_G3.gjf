@@ -1,0 +1,10 @@
+%nprocshared=6
+%mem=18GB
+%oldchk=4PY_B3LYP_PC2_OPT_FREQ.chk
+%chk=4PY_G3.chk
+#p G3 geom=checkpoint 
+
+4PY_G3
+
+0 1
+

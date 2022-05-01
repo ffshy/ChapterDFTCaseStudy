@@ -1,0 +1,12 @@
+%nprocshared=6
+%mem=10GB
+%oldchk=4PY_B3LYP_PC2_OPT_FREQ.chk
+%chk=4PY_TPSSh_PC2_OPT_FREQ.chk
+#p opt=(calcfc) freq TPSSh/gen  SCF(novaracc,noincfock) int=acc2e=12 geom=checkpoint 
+
+4PY_TPSSh_PC2_OPT_FREQ
+
+0 1
+
+@pc-2.gbs
+

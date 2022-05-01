@@ -1,0 +1,14 @@
+%nprocshared=64
+%mem=128GB
+%chk=H2O_B3LYP_PC2_OPT_FREQ.chk
+#p opt freq B3LYP/gen 
+
+H2O_B3LYP_PC2_OPT_FREQ
+
+0 1
+ O                  0.03921698    0.79557060    0.00000000
+ H                  0.99921695    0.79581170    0.00000000
+ H                 -0.28101032    1.70058689    0.00000000
+
+@pc-2.gbs
+

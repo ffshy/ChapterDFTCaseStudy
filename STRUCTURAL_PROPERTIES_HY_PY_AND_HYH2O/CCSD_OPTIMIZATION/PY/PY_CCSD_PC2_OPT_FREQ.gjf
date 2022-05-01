@@ -1,0 +1,12 @@
+%nprocshared=16
+%mem=50GB
+%oldchk=PY_TPSSh_PC2_OPT_FREQ.chk
+%chk=PY_CCSD_PC2_OPT_FREQ.chk
+#p opt freq  CCSD/gen  SCF(novaracc,noincfock) int=acc2e=12 geom=checkpoint 
+
+PY_CCSD_PC2_OPT_FREQ
+
+0 1
+
+@pc-2.gbs
+

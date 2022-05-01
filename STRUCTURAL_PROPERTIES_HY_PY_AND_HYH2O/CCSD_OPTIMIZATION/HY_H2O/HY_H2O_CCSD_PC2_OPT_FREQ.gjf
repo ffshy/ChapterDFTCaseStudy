@@ -1,0 +1,11 @@
+%nprocshared=16
+%mem=90GB
+%chk=HY_H2O_CCSD_PC2_OPT_FREQ.chk
+#p opt  CCSD/gen  SCF(novaracc,noincfock) int=acc2e=12 geom=checkpoint 
+
+HY_H2O_CCSD_PC2_OPT_FREQ
+
+0 1
+
+@pc-2.gbs
+
